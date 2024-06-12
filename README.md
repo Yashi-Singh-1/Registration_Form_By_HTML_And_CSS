@@ -1,4 +1,4 @@
-<h1> Cafe Menu </h1>
+<h1> Registration Form </h1>
 
 A simple project to display a cafe menu using HTML and CSS.
 
@@ -23,20 +23,15 @@ This project is a simple website created to display a cafe menu. It's built usin
 
 <h1> Project Structure </h1>
 
-Cafe Menu/
+Registration_From_By_HTML_And_CSS/
 ├── index.html
 ├── styles.css
-├── images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
 └── README.md
 
 <h1> Features </h1>
 
 - **Responsive Design**: Adapts to different screen sizes.
 - **Clean Layout**: Easy to read and navigate.
-- **Images**: Visual representation of menu items.
 
 <h1> Getting Started </h1>
 
@@ -50,10 +45,9 @@ Web browser (e.g., Chrome, Firefox, Edge)
 
 1. Clone the repo:
 
-git clone https://github.com/Yashi-Singh-1/Cafe-Menu.git
+<p><code>git clone https://github.com/Yashi-Singh-1/Cafe-Menu.git</code></p>
 
-
-2. Open index.html in your web browser to view the menu.
+2. Open <code>index.html</code> in your web browser to view the menu.
 
 <h1> Usage </h1>
 
@@ -71,7 +65,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 <h1> Preview </h1>
 
-[![Cafe Menu Preview](Preview.png)]
+![Registration Form Preview](Preview.png)
 
 <h1> Contact Information </h1>
 
@@ -81,11 +75,10 @@ LinkedIn: Yashi Singh (www.linkedin.com/in/yashi-singh-b4143a246)
 
 <h1> Credits </h1>
 
-- FreeCodeCamp: [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1](https://www.freecodecamp.org/)
+- FreeCodeCamp: (https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)](https://www.freecodecamp.org/)
 
 <h1> License </h1>
 
 This project is licensed under the MIT License.
 
-
-MIT License
+<a href="">MIT License</a>
