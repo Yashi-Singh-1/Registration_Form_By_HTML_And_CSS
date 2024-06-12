@@ -23,10 +23,10 @@ This project is a simple website created to display a cafe menu. It's built usin
 
 <h1> Project Structure </h1>
 
-Registration_From_By_HTML_And_CSS/
-├── index.html
-├── styles.css
-└── README.md
+Registration_From_By_HTML_And_CSS/ <br>
+├── index.html <br>
+├── styles.css <br>
+└── README.md <br>
 
 <h1> Features </h1>
 
